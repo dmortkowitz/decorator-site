@@ -10,7 +10,6 @@ h3 {
   font-size: 30px;
   font-style: italic;
   width: 30%;
-  background-color: orange;
   color: blue;
 }
 
@@ -22,4 +21,16 @@ p {
 
 body {
   background-color: skyblue;
+}
+
+h3.a {
+  background-color: black;
+}
+
+h3.b {
+  background-color: pink;
+}
+
+h3.c {
+  background-color: green;
 }

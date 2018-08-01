@@ -1,0 +1,25 @@
+img {
+  height: 350px;
+  width: 350px;
+  padding: 20px;
+
+}
+
+h3 {
+  float: right;
+  font-size: 30px;
+  font-style: italic;
+  width: 30%;
+  background-color: orange;
+  color: blue;
+}
+
+p {
+  font-weight: bold;
+  font-style: italic;
+  color: orange;
+}
+
+body {
+  background-color: skyblue;
+}
